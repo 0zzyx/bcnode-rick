@@ -1,4 +1,4 @@
-# bcnode-rick fork change made to build with 0.8.2 (not hl version)
+# bcnode-rick fork change made to latest build considered as 0.8.2 (latest) for 15.09.2018
 ## It's really weird. It's about to get a whole lot weirder, Morty.
 Build the new image using something like this:
 
