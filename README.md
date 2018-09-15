@@ -1,4 +1,4 @@
-# bcnode-rick
+# bcnode-rick fork change made to build with 0.8.2 (not hl version)
 ## It's really weird. It's about to get a whole lot weirder, Morty.
 Build the new image using something like this:
 
